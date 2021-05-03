@@ -2,7 +2,7 @@
   
     
         "post0": {
-            "title": "Test of the automated import of notebooks into faspages blog",
+            "title": "Test notebook",
             "content": "import numpy as np import matplotlib.pyplot as plt . x = range(0,100,5) y = np.random.rand(len(x)) plt.plot(x,y) print(&quot;Test SUCCESS!&quot;) . Test SUCCESS! .",
             "url": "https://erupnik.github.io/blog/2021/05/03/test2.html",
             "relUrl": "/2021/05/03/test2.html",
